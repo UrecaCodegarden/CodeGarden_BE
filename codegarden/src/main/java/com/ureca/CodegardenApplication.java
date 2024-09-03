@@ -4,11 +4,10 @@ import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class CodeGardenBeApplication {
+public class CodegardenApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(CodeGardenBeApplication.class, args);
-		//test commit
+		SpringApplication.run(CodegardenApplication.class, args);
 	}
 
 }
